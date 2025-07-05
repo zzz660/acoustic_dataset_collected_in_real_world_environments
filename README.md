@@ -29,7 +29,7 @@
         <td align="center">4KHz</td>
     </tr>
     <tr>
-      <td align="center">spray-ing drone with 1089 mm wheelbase</td>
+      <td align="center">spraying drone with 1089 mm wheelbase</td>
       <td align="center">100</td>
         <td align="center">4KHz</td>
     </tr>
