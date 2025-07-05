@@ -20,19 +20,18 @@
     <tr>
       <td align="center" rowspan="3">quadcopter drones</td>
       <td align="center">DJI Air 3</td>
-      <td align="center">200</td>
+      <td align="center">50</td>
         <td align="center">4KHz</td>
     </tr>
     <tr>
       <td align="center">DJI Mavic 3</td>
-      <td align="center">200</td>
+      <td align="center">50</td>
         <td align="center">4KHz</td>
     </tr>
     <tr>
       <td align="center">spray-ing drone with 1089 mm wheelbase</td>
-      <td align="center">200</td>
+      <td align="center">100</td>
         <td align="center">4KHz</td>
     </tr>
   </tbody>
 </table>
-
